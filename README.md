@@ -1,16 +1,14 @@
-##Vashishth Kumar
+## Vashishth Kumar
 MERN Stack Developer
-
-Email: khandalvashisth@gmail.com
 
 Phone: +91 9351027275
 Address: Vrindavan Residency, Krishna Sagar Colony, Dholai, Jaipur, Rajasthan 302020
 
-#PROFILE
+## PROFILE
 
 Passionate and detail-oriented MERN Stack Developer with hands-on experience in building scalable web applications. Skilled in both frontend and backend technologies, with a strong focus on user experience, responsive design, and clean code practices. Seeking a dynamic environment to grow, innovate, and contribute to impactful projects.
 
-#TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
 Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Redux, Context API
 Backend: Node.js, Express.js, API Integration, MVC Architecture
@@ -18,7 +16,7 @@ Databases: MongoDB, PostgreSQL
 Version Control & Tools: Git, GitHub, Postman, Requestly
 Other Skills: REST APIs, Microservices (basics), TypeScript (basics), Responsive UI Design, Debugging & Problem Solving, Bash Scripting
 
-#EXPERIENCE
+## EXPERIENCE
 
 Software Developer Intern – WE RNS IT Solutions (2025)
 
@@ -33,7 +31,7 @@ Implemented features including:
 
 Collaborated with team members to deliver scalable and user-friendly solutions.
 
-#EDUCATION
+## EDUCATION
 
 Bachelor of Computer Applications (BCA)
 Sri Balaji College of Engineering and Technology, Jaipur
@@ -43,7 +41,7 @@ Senior Secondary (Arts)
 Smt. Sheetal Choudhary Senior Secondary School, Hanumangarh
 Completed: March 2024
 
-#HOBBIES & INTERESTS
+## HOBBIES & INTERESTS
 
 Bike Riding
 Travelling and exploring new places
