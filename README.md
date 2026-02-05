@@ -1,4 +1,4 @@
-#Vashishth Kumar
+##Vashishth Kumar
 MERN Stack Developer
 
 Email: khandalvashisth@gmail.com
