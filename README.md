@@ -2,6 +2,7 @@
 MERN Stack Developer
 
 Phone: +91 9351027275
+
 Address: Vrindavan Residency, Krishna Sagar Colony, Dholai, Jaipur, Rajasthan 302020
 
 ## PROFILE
